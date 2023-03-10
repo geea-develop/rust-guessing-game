@@ -1,8 +1,9 @@
-# Gessing game
+# Guessing game
 
 ## RUN
+
 `cargo run`
 
 ## Build
-`cargo build`
 
+`cargo build`
